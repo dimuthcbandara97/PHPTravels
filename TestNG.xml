@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="KUACSQA212P_013_Final_CW">
+
+	<listeners>
+		<listener class-name="com.nibmsqa.utilities.Reporting"/>
+	</listeners>
+	
+	<test name="NIBM SQA Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.nibmsqa.testCases.TC_LoginTest_001" />
+			<class name="com.nibmsqa.testCases.TC_002_Search_Oneway_flights" />
+			<class name="com.nibmsqa.testCases.TC_003_Search_Roundway_Flights" />
+			<class name="com.nibmsqa.testCases.TC_004_Flight_Page_Testing" />
+		</classes>
+
+	</test>
+
+</suite>
