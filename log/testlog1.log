@@ -1,0 +1,1300 @@
+2022-04-30 08:22:32,377 [main] INFO ebanking - URL is opened
+2022-04-30 08:22:32,384 [main] INFO ebanking - Main page loaded suceesfully
+2022-04-30 08:22:32,395 [main] INFO ebanking - Login Test Passed
+2022-04-30 08:23:40,679 [main] INFO ebanking - URL is opened
+2022-04-30 08:23:40,684 [main] INFO ebanking - Main page loaded suceesfully
+2022-04-30 08:23:40,761 [main] INFO ebanking - Login Test Passed
+2022-04-30 08:27:28,956 [main] INFO nibmsqa - URL is opened
+2022-04-30 08:27:28,962 [main] INFO nibmsqa - Main page loaded suceesfully
+2022-04-30 08:27:28,971 [main] INFO nibmsqa - Login Test Passed
+2022-04-30 20:40:50,510 [main] INFO nibmsqa - Browser is opended
+2022-04-30 20:40:50,602 [main] INFO nibmsqa - Main page loaded suceesfully TC_001_Completed
+2022-04-30 20:47:27,871 [main] INFO nibmsqa - Browser is opended
+2022-04-30 20:53:00,171 [main] INFO nibmsqa - Browser is opended
+2022-04-30 20:58:09,785 [main] INFO nibmsqa - URL is opened
+2022-04-30 21:32:42,306 [main] INFO ebanking - URL is opened
+2022-04-30 21:32:42,328 [main] INFO ebanking - Main page loaded suceesfully
+2022-04-30 21:35:56,486 [main] INFO ebanking - URL is Opened
+2022-04-30 21:44:49,407 [main] INFO ebanking - URL is Opened
+2022-04-30 21:46:36,802 [main] INFO ebanking - URL is Opened
+2022-04-30 21:48:45,570 [main] INFO ebanking - URL is Opened
+2022-04-30 21:50:07,609 [main] INFO ebanking - URL is Opened
+2022-04-30 21:52:53,062 [main] INFO ebanking - URL is Opened
+2022-04-30 21:59:18,241 [main] INFO ebanking - URL is Opened
+2022-04-30 21:59:18,272 [main] INFO ebanking - TC 001_ Main Page Loads Successfully
+2022-04-30 21:59:24,370 [main] INFO ebanking - Clicked
+2022-04-30 22:00:33,488 [main] INFO ebanking - URL is Opened
+2022-04-30 22:00:33,511 [main] INFO ebanking - TC 001_ Main Page Loads Successfully
+2022-04-30 22:00:40,609 [main] INFO ebanking - TC 002_Loading flights section successful
+2022-04-30 22:29:18,241 [main] INFO ebanking - URL is Opened
+2022-04-30 22:29:18,259 [main] INFO ebanking - TC 001_ Main Page Loads Successfully
+2022-04-30 22:29:25,375 [main] INFO ebanking - TC 002_Loading flights section successful
+2022-04-30 22:33:17,672 [main] INFO ebanking - URL is Opened
+2022-04-30 22:33:17,693 [main] INFO ebanking - TC 001_ Main Page Loads Successfully
+2022-04-30 22:33:24,800 [main] INFO ebanking - TC 002_Loading flights section successful
+2022-04-30 22:33:26,307 [main] INFO ebanking - Loads the suggestions
+2022-04-30 22:40:00,045 [main] INFO ebanking - URL is Opened
+2022-04-30 22:40:00,066 [main] INFO ebanking - TC 001_ Main Page Loads Successfully
+2022-04-30 22:40:07,170 [main] INFO ebanking - TC 002_Loading flights section successful
+2022-04-30 22:40:08,218 [main] INFO ebanking - TC_002 S1 Select One Way trip
+2022-04-30 22:40:09,769 [main] INFO ebanking - Loads the suggestions
+2022-04-30 22:40:09,843 [main] INFO ebanking - TC_002_S2 Departure Selected Successfully 
+2022-04-30 22:42:20,906 [main] INFO ebanking - URL is Opened
+2022-04-30 22:42:20,926 [main] INFO ebanking - TC 001_ Main Page Loads Successfully
+2022-04-30 22:42:28,033 [main] INFO ebanking - TC 002_Loading flights section successful
+2022-04-30 22:42:29,089 [main] INFO ebanking - TC_002 S1 Select One Way trip
+2022-04-30 22:42:30,582 [main] INFO ebanking - Loads the suggestions
+2022-04-30 22:42:30,642 [main] INFO ebanking - TC_002_S2 Departure Selected Successfully 
+2022-04-30 22:46:59,273 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-04-30 22:46:59,311 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-04-30 22:47:06,402 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-04-30 22:47:07,442 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-04-30 22:47:08,939 [main] INFO NIBM_SQA_FINAL - Loads the suggestions
+2022-04-30 22:47:09,018 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 07:19:31,565 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 07:19:31,637 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 07:19:38,742 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 07:19:39,773 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 07:19:41,265 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 07:19:41,341 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 07:19:42,816 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 07:19:43,006 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 07:19:44,483 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 08:31:08,879 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 08:31:08,986 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 08:31:16,170 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 08:31:17,226 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 08:31:20,208 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 08:31:20,398 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 08:31:22,470 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 08:31:22,907 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 08:31:25,106 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 08:31:26,449 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 08:31:27,627 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 08:31:27,627 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Date Selection Passed
+2022-05-01 08:37:28,616 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 08:37:28,677 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 08:37:35,838 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 08:37:36,889 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 08:37:38,928 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 08:37:39,083 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 08:37:47,153 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 08:37:47,153 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 08:37:50,126 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 08:37:51,750 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 08:37:52,907 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 08:37:52,908 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Date Selection Passed
+2022-05-01 08:40:42,120 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 08:40:42,208 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 08:40:49,364 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 08:40:50,416 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 08:40:52,199 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 08:40:52,304 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 08:41:00,697 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 08:43:33,572 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 08:43:33,637 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 08:43:40,900 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 08:43:42,030 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 08:43:44,144 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 08:43:44,275 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 08:43:56,747 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 08:43:56,749 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 08:43:58,413 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 08:43:59,226 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 08:44:00,159 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 08:44:00,160 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 08:52:15,104 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 08:52:15,150 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 08:52:22,537 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 08:52:23,590 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 08:52:25,601 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 08:52:25,751 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 08:52:34,063 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 08:52:34,064 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 08:52:36,936 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 08:52:38,081 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 08:52:39,575 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 08:52:39,576 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 09:29:15,035 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 09:29:15,090 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 09:29:22,348 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 09:29:23,408 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 09:29:25,584 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 09:29:25,706 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 09:29:33,346 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 09:29:33,346 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 09:29:35,570 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 09:29:36,869 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 09:29:37,800 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 09:29:37,801 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 09:29:38,015 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 09:31:42,752 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 09:31:42,831 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 09:31:50,232 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 09:31:51,356 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 09:31:53,306 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 09:31:53,436 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 09:32:02,056 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 09:32:02,057 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 09:32:04,769 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 09:32:05,983 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 09:32:07,101 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 09:32:07,102 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 09:32:07,331 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 09:38:04,531 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 09:38:04,608 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 09:38:11,789 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 09:38:12,835 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 09:38:14,913 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 09:38:15,056 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 09:38:22,774 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 09:38:22,775 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 09:38:25,315 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 09:38:26,800 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 09:38:27,867 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 09:38:27,867 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 09:38:28,142 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 09:41:43,872 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 09:41:43,898 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 09:41:50,988 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 09:41:52,039 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 09:41:53,537 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 09:41:53,610 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 09:41:58,896 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 09:41:58,896 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 09:42:00,415 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 09:42:00,712 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 09:42:00,983 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 09:42:00,984 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 09:42:01,099 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 10:08:52,116 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 10:08:52,188 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 10:08:59,337 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 10:09:00,389 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 10:09:02,348 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 10:09:02,467 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 10:09:10,107 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 10:09:10,108 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 10:09:11,886 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 10:09:13,141 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 10:09:14,125 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 10:09:14,125 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 10:09:14,309 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 10:09:14,310 [main] INFO NIBM_SQA_FINAL - Select class and select passengers test failed
+2022-05-01 10:09:20,884 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-01 11:01:02,205 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 11:01:02,268 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 11:01:09,423 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 11:01:10,478 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-01 11:01:12,248 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 11:01:12,337 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 11:01:19,240 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 11:01:19,241 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 11:01:20,932 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 11:01:21,992 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 11:01:22,860 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 11:01:22,862 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-01 11:03:01,259 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 11:03:01,322 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 11:03:08,466 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 11:03:09,583 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-01 11:03:11,404 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 11:03:11,502 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 11:03:18,742 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 11:03:18,743 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 11:03:20,455 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 11:03:21,443 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 11:03:22,286 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 11:03:22,287 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-01 11:03:23,390 [main] INFO NIBM_SQA_FINAL - Select return date successfully
+2022-05-01 11:03:24,571 [main] INFO NIBM_SQA_FINAL - Unable to select past retrun date
+2022-05-01 11:03:25,525 [main] INFO NIBM_SQA_FINAL - Select Retrn date successfully
+2022-05-01 11:03:25,526 [main] INFO NIBM_SQA_FINAL - TC_003_S5 Passed
+2022-05-01 11:03:25,700 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 11:03:25,701 [main] INFO NIBM_SQA_FINAL - Select class and select passengers test failed
+2022-05-01 11:03:34,282 [main] INFO NIBM_SQA_FINAL - TC_003_S8 Passed 
+2022-05-01 11:40:43,955 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 12:05:39,128 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 12:05:39,180 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 12:05:39,412 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 12:05:39,836 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 12:05:39,841 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed
+2022-05-01 12:30:05,303 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 12:30:05,362 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 12:30:09,807 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 12:30:11,086 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 12:30:12,089 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 12:30:14,979 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 12:30:17,957 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 12:30:19,674 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 12:30:22,413 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 12:30:22,414 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 12:30:28,836 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed directs to booking page
+2022-05-01 13:35:20,302 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 13:36:06,955 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 13:37:16,388 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 13:37:16,417 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 13:37:23,524 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 13:37:24,596 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 13:37:26,060 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 13:37:26,132 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 13:37:31,221 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 13:37:31,221 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 13:37:32,682 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 13:37:33,305 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 13:37:33,809 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 13:37:33,827 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 13:37:33,949 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 13:37:34,581 [main] INFO NIBM_SQA_FINAL - TC_00 S6 Economy Class is Selected
+2022-05-01 13:37:34,582 [main] INFO NIBM_SQA_FINAL - Select class and select passengers test failed
+2022-05-01 13:37:39,969 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-01 13:48:03,380 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 13:48:03,407 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 13:48:10,500 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 13:48:11,571 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 13:48:13,079 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 13:48:13,148 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 13:48:18,318 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 13:48:18,319 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 13:48:19,777 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 13:48:20,351 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 13:48:20,868 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 13:48:20,868 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 13:48:20,987 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 13:49:23,855 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 13:49:23,892 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 13:49:30,998 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 13:49:32,060 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 13:49:33,662 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 13:49:33,737 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 13:49:39,003 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 13:49:39,004 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 13:49:40,491 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 13:49:41,108 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 13:49:41,661 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 13:49:41,662 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 13:49:41,775 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 13:50:44,995 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 13:50:45,030 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 13:50:52,127 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 13:50:53,195 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 13:50:54,655 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 13:50:54,726 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 13:50:59,916 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 13:50:59,916 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 13:51:01,406 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 13:51:02,086 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 13:51:02,657 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 13:51:02,658 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 13:51:02,781 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 13:53:10,792 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 13:53:10,816 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 13:53:17,912 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 13:53:18,989 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 13:53:20,465 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 13:53:20,537 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 13:53:25,775 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 13:53:25,776 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 13:53:27,232 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 13:53:27,817 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 13:53:28,317 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 13:53:28,317 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 13:53:28,430 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 13:53:29,034 [main] INFO NIBM_SQA_FINAL - TC_00 S6 Economy Class is Selected
+2022-05-01 13:53:30,044 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-01 13:53:34,868 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-01 14:00:16,747 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 14:00:16,789 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 14:00:23,902 [main] INFO NIBM_SQA_FINAL - TC 003_Loading flights section successful
+2022-05-01 14:00:24,988 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-01 14:00:26,600 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 14:00:26,691 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 14:00:32,435 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 14:00:32,435 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 14:00:34,050 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 14:00:34,889 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 14:00:35,626 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 14:00:35,626 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-01 14:00:36,448 [main] INFO NIBM_SQA_FINAL - Select return date successfully
+2022-05-01 14:00:37,336 [main] INFO NIBM_SQA_FINAL - Unable to select past retrun date
+2022-05-01 14:00:38,213 [main] INFO NIBM_SQA_FINAL - Select Retrn date successfully
+2022-05-01 14:00:38,214 [main] INFO NIBM_SQA_FINAL - TC_003_S5 Passed
+2022-05-01 14:00:38,384 [main] INFO NIBM_SQA_FINAL - clicked on passenger
+2022-05-01 14:00:39,341 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Economy Class is Selected
+2022-05-01 14:00:39,342 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Select Class Test is passed
+2022-05-01 14:00:47,024 [main] INFO NIBM_SQA_FINAL - TC_003_S8 Passed 
+2022-05-01 14:12:46,022 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 15:11:20,772 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 15:11:20,926 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 15:15:33,820 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 15:15:33,864 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 15:15:38,280 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 15:15:39,654 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 15:15:40,667 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 15:15:42,912 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 15:15:45,593 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 15:15:46,733 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 15:15:49,114 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 15:15:49,115 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 15:15:59,359 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed directs to booking page
+2022-05-01 15:17:36,181 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 15:17:36,259 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 15:17:40,494 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 15:17:41,815 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 15:17:42,818 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 15:17:46,343 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 15:17:50,345 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 15:17:52,396 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 15:17:56,458 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 15:17:56,460 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 15:18:02,004 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 15:18:03,103 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 15:18:04,190 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 15:18:05,149 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 15:27:24,025 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 15:27:24,077 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 15:27:28,520 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 15:27:29,830 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 15:27:30,846 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 15:27:34,104 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 15:27:37,600 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 15:27:38,991 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 15:27:42,316 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 15:27:42,316 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 15:27:47,818 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 15:27:48,883 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 15:27:50,111 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 15:27:51,201 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 15:27:52,293 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 15:27:53,338 [main] INFO NIBM_SQA_FINAL - Country is entered
+2022-05-01 15:27:54,377 [main] INFO NIBM_SQA_FINAL - Natioanality is entered
+2022-05-01 15:27:54,378 [main] INFO NIBM_SQA_FINAL - TC_005_S1 is passed
+2022-05-01 15:29:32,880 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 15:29:32,931 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 15:29:37,333 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 15:29:38,743 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 15:29:39,751 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 15:29:43,564 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 15:29:47,730 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 15:29:50,608 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 15:29:55,005 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 15:29:55,006 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 15:30:00,801 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 15:30:01,834 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 15:30:03,089 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 15:30:04,255 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 15:30:05,314 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 15:31:22,185 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 15:31:22,250 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 15:31:26,596 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 15:31:27,858 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 15:31:28,863 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 15:31:32,638 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 15:31:37,267 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 15:31:41,527 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 15:31:44,572 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 15:31:44,574 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 15:31:51,024 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 15:31:52,101 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 15:31:53,248 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 15:31:54,369 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 15:31:55,493 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 16:08:29,375 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 16:08:29,403 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 16:08:33,556 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 16:08:34,681 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 16:08:35,687 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 16:08:37,192 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 16:08:38,674 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 16:08:39,061 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 16:08:40,460 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 16:08:40,461 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 16:08:44,070 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 16:08:44,770 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 16:08:45,505 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 16:08:46,198 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 16:08:46,903 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 16:08:47,419 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 16:08:47,481 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 16:09:37,416 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 16:09:37,442 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 16:09:41,560 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 16:09:42,669 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 16:09:43,683 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 16:10:26,609 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 16:10:26,643 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 16:10:30,760 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 16:10:31,871 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 16:10:32,879 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 16:10:34,450 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 16:10:35,853 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 16:10:36,229 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 16:10:37,635 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 16:10:37,635 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 16:10:41,099 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 16:10:41,791 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 16:10:42,519 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 16:10:43,218 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 16:10:43,918 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 16:10:44,433 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 16:10:44,491 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 16:13:13,634 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 16:13:13,660 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 16:13:17,778 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 16:13:18,890 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 16:13:19,898 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 16:13:21,417 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 16:13:22,900 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 16:13:23,286 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 16:13:24,734 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 16:13:24,735 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 16:13:28,595 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 16:13:29,309 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 16:13:30,068 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 16:13:30,788 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 16:13:31,489 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 16:13:31,990 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 16:13:32,054 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 16:15:04,754 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 16:15:04,778 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 16:15:08,880 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 16:15:09,985 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 16:15:10,997 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 16:15:12,627 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 16:15:14,019 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 16:15:14,414 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 16:15:15,829 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 16:15:15,830 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 16:15:19,310 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 16:15:20,042 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 16:15:20,820 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 16:15:21,519 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 16:15:22,225 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 16:15:22,729 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 16:15:22,792 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 16:24:42,451 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 16:24:42,474 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 16:24:46,578 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 16:24:47,699 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 16:24:48,707 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 16:24:50,223 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 16:24:51,750 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 16:24:52,131 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 16:24:53,859 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 16:24:53,859 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 16:24:57,656 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 16:24:58,388 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 16:24:59,146 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 16:24:59,853 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 16:25:00,560 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 16:25:01,071 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 16:25:01,143 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 16:25:01,144 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 16:25:01,232 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 16:25:01,416 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 16:32:09,449 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 16:32:09,475 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 16:32:13,577 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 16:32:14,677 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 16:32:15,680 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 16:32:17,206 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 16:32:18,722 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 16:32:19,120 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 16:32:20,532 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 16:32:20,533 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 16:32:24,147 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 16:32:24,835 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 16:32:25,553 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 16:32:26,232 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 16:32:26,918 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 16:32:27,423 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 16:32:27,488 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 16:32:27,489 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 16:32:27,596 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 16:32:28,205 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 16:32:28,822 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 16:32:29,433 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 16:32:30,083 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 16:53:48,486 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 16:53:48,513 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 16:53:52,622 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 16:53:53,742 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 16:53:54,752 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 16:53:56,280 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 16:53:57,780 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 16:53:58,158 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 16:53:59,599 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 16:53:59,600 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 16:54:03,335 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 16:54:04,025 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 16:54:04,746 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 16:54:05,448 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 16:54:06,149 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 16:54:06,656 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 16:54:06,716 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 16:54:06,717 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 16:54:06,807 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 16:54:07,408 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 16:54:07,956 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 16:54:08,553 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 16:54:09,197 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 16:54:09,790 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 16:54:10,357 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-01 16:54:10,933 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-01 16:54:11,535 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 16:54:12,122 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-01 16:55:43,763 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 16:55:43,787 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 16:55:47,900 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 16:55:49,034 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 16:55:50,041 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 16:55:51,615 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 16:55:53,030 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 16:55:53,408 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 16:55:54,827 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 16:55:54,828 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 16:55:58,593 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 16:55:59,299 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 16:56:00,038 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 16:56:00,756 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 16:56:01,465 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 16:56:01,971 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 16:56:02,051 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 16:56:02,051 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 16:56:02,148 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 16:56:02,774 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 16:56:03,355 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 16:56:03,955 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 16:56:04,654 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 16:56:05,240 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 16:56:05,800 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-01 16:56:06,362 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-01 16:56:06,939 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 16:56:07,536 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-01 16:56:08,082 [main] INFO NIBM_SQA_FINAL - 2024 is selected as passport issurance year
+2022-05-01 16:56:09,178 [main] INFO NIBM_SQA_FINAL - Bank Transfer is selected
+2022-05-01 16:56:09,742 [main] INFO NIBM_SQA_FINAL - Pay later is selected
+2022-05-01 18:10:07,002 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 18:10:07,112 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 18:10:11,570 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 18:11:08,568 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 18:11:08,615 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 18:11:12,884 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 18:11:14,184 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 18:11:15,199 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 18:11:17,469 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 18:11:20,218 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 18:11:21,810 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 18:11:24,224 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 18:11:24,226 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 18:11:30,126 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 18:11:31,466 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 18:11:32,626 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 18:11:33,784 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 18:11:34,956 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 18:11:35,465 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 18:11:35,663 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 18:11:35,664 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 18:11:35,873 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 18:11:36,709 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 18:11:37,363 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 18:11:38,180 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 18:11:39,281 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 18:11:40,088 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 18:11:40,759 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-01 18:11:41,436 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-01 18:11:42,209 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 18:11:43,028 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-01 18:11:43,711 [main] INFO NIBM_SQA_FINAL - 2024 is selected as passport issurance year
+2022-05-01 18:11:44,959 [main] INFO NIBM_SQA_FINAL - Bank Transfer is selected
+2022-05-01 18:11:45,702 [main] INFO NIBM_SQA_FINAL - Pay later is selected
+2022-05-01 18:11:45,917 [main] INFO NIBM_SQA_FINAL - Pay pal is selected
+2022-05-01 18:15:21,252 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 18:15:21,296 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 18:15:25,640 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 18:15:26,998 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 18:15:28,012 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 18:15:30,331 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 18:15:33,130 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 18:15:34,227 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 18:15:36,709 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 18:15:36,710 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 18:15:43,241 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 18:15:44,344 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 18:15:45,690 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 18:15:46,715 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 18:15:47,711 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 18:15:48,223 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 18:15:48,383 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 18:15:48,383 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 18:15:48,602 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 18:15:49,423 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 18:15:50,091 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 18:15:50,841 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 18:15:51,759 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 18:15:52,529 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 18:15:53,191 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-01 18:15:53,877 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-01 18:15:54,741 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 18:15:55,612 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-01 18:15:56,284 [main] INFO NIBM_SQA_FINAL - 2024 is selected as passport issurance year
+2022-05-01 18:15:57,430 [main] INFO NIBM_SQA_FINAL - Bank Transfer is selected
+2022-05-01 18:15:58,204 [main] INFO NIBM_SQA_FINAL - Pay later is selected
+2022-05-01 18:15:58,206 [main] ERROR NIBM_SQA_FINAL - Error in pay Stripe method
+2022-05-01 18:15:58,448 [main] INFO NIBM_SQA_FINAL - Pay pal is selected
+2022-05-01 18:15:59,680 [main] INFO NIBM_SQA_FINAL - Agreed to terms and conditions
+2022-05-01 18:16:00,391 [main] INFO NIBM_SQA_FINAL - Loads to new page
+2022-05-01 19:02:26,968 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 19:02:27,034 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 19:02:31,285 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 19:02:32,531 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 19:02:33,537 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 19:02:35,759 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 19:02:38,228 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 19:02:39,645 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 19:02:42,079 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 19:02:42,080 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 19:02:47,635 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 19:02:48,599 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 19:02:49,742 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 19:02:50,678 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 19:02:51,624 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 19:02:52,131 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 19:02:52,259 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 19:04:46,370 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 19:04:46,422 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 19:04:50,649 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 19:04:51,917 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 19:04:52,922 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 19:04:55,043 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 19:04:57,709 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 19:04:58,549 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 19:05:01,120 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 19:05:01,121 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 19:05:05,709 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 19:05:06,623 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 19:05:07,614 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 19:05:08,554 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 19:05:09,470 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 19:05:09,972 [main] ERROR NIBM_SQA_FINAL - Country and Nationality are not working
+2022-05-01 19:05:10,130 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 19:14:30,605 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 19:14:30,647 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 19:14:34,788 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 19:14:35,928 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 19:14:36,933 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 19:14:38,582 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 19:14:40,423 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 19:14:40,919 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 19:14:42,494 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 19:14:42,495 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 19:14:47,701 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 19:14:48,483 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 19:14:49,267 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 19:14:50,024 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 19:14:50,768 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 19:14:51,352 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 19:40:54,979 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 19:40:55,023 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 19:41:02,135 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 19:41:03,224 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 19:41:04,687 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 19:41:04,758 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 19:41:09,882 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 19:41:09,883 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 19:41:11,363 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 19:41:11,959 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 19:41:12,465 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 19:41:12,466 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 19:46:26,296 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 19:46:26,329 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 19:46:33,415 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 19:46:34,487 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 19:46:35,982 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 19:46:36,052 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 19:46:41,248 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 19:46:41,249 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 19:46:42,723 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 19:46:43,382 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 19:46:43,977 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 19:46:43,978 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 19:46:44,964 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Economy Class is Selected
+2022-05-01 19:46:45,969 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-01 19:46:50,577 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-01 20:56:55,890 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 20:56:55,951 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 20:57:03,142 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 20:57:04,240 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 20:57:05,954 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 20:57:06,074 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 20:57:14,131 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 20:57:14,133 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 20:57:16,687 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 20:57:18,051 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 20:57:19,241 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 20:57:19,242 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 20:57:23,065 [main] INFO NIBM_SQA_FINAL - Counter is working successfully
+2022-05-01 20:57:23,066 [main] INFO NIBM_SQA_FINAL - TC_002_S5 Passed
+2022-05-01 20:57:24,266 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Economy Class is Selected
+2022-05-01 20:57:25,270 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-01 20:57:33,019 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-01 21:03:58,103 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 21:03:58,156 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 21:04:05,341 [main] INFO NIBM_SQA_FINAL - TC 003_Loading flights section successful
+2022-05-01 21:04:06,490 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-01 21:04:08,586 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 21:04:08,734 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 21:04:18,351 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 21:04:18,351 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 21:04:21,357 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 21:04:23,198 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 21:04:24,619 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 21:04:24,621 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-01 21:04:26,328 [main] INFO NIBM_SQA_FINAL - Select return date successfully
+2022-05-01 21:04:28,388 [main] INFO NIBM_SQA_FINAL - Unable to select past retrun date
+2022-05-01 21:04:29,833 [main] INFO NIBM_SQA_FINAL - Select Retrn date successfully
+2022-05-01 21:04:29,835 [main] INFO NIBM_SQA_FINAL - TC_003_S5 Passed
+2022-05-01 21:04:35,413 [main] INFO NIBM_SQA_FINAL - TC_003 S6 Passed
+2022-05-01 21:04:37,086 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Economy Class is Selected
+2022-05-01 21:04:37,087 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Select Class Test is passed
+2022-05-01 21:04:53,685 [main] INFO NIBM_SQA_FINAL - TC_003_S8 Passed 
+2022-05-01 21:15:49,980 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 21:15:50,031 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 21:15:54,337 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 21:15:55,767 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 21:15:56,772 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 21:15:59,738 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 21:16:03,924 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 21:16:05,301 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 21:16:07,846 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 21:16:07,846 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 21:16:12,948 [main] INFO NIBM_SQA_FINAL - TC_005 Start
+2022-05-01 21:16:13,587 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 21:16:14,678 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 21:16:15,866 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 21:16:16,968 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 21:16:18,000 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 21:16:18,511 [main] ERROR NIBM_SQA_FINAL - Errors in Country and Nationality
+2022-05-01 21:16:18,728 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 21:16:18,729 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 21:16:18,929 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 21:16:19,755 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 21:16:20,414 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 21:16:21,198 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 21:16:22,341 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 21:16:23,193 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:16:23,883 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-01 21:16:24,556 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-01 21:16:25,374 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:16:26,211 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-01 21:16:26,900 [main] INFO NIBM_SQA_FINAL - 2024 is selected as passport issurance year
+2022-05-01 21:16:28,050 [main] INFO NIBM_SQA_FINAL - Bank Transfer is selected
+2022-05-01 21:16:28,830 [main] INFO NIBM_SQA_FINAL - Pay later is selected
+2022-05-01 21:16:28,831 [main] ERROR NIBM_SQA_FINAL - Error in pay Stripe method
+2022-05-01 21:16:29,069 [main] INFO NIBM_SQA_FINAL - Pay pal is selected
+2022-05-01 21:19:29,635 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 21:19:29,731 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 21:19:34,155 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 21:19:35,621 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 21:19:36,631 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 21:19:40,189 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 21:19:43,551 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 21:19:45,414 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 21:19:50,074 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 21:19:50,079 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 21:19:56,975 [main] INFO NIBM_SQA_FINAL - TC_005 Start
+2022-05-01 21:19:57,486 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 21:19:58,553 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 21:19:59,708 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 21:20:00,808 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 21:20:01,877 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 21:20:02,383 [main] ERROR NIBM_SQA_FINAL - Errors in Country and Nationality
+2022-05-01 21:20:02,575 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 21:20:02,575 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 21:20:02,777 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 21:20:03,649 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 21:20:04,362 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 21:20:05,227 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 21:20:06,343 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 21:20:07,143 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:20:07,825 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-01 21:20:08,517 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-01 21:20:09,288 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:20:10,113 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-01 21:20:10,792 [main] INFO NIBM_SQA_FINAL - 2024 is selected as passport issurance year
+2022-05-01 21:20:12,064 [main] INFO NIBM_SQA_FINAL - Bank Transfer is selected
+2022-05-01 21:20:12,846 [main] INFO NIBM_SQA_FINAL - Pay later is selected
+2022-05-01 21:20:12,847 [main] ERROR NIBM_SQA_FINAL - Error in pay Stripe method
+2022-05-01 21:20:13,141 [main] INFO NIBM_SQA_FINAL - Pay pal is selected
+2022-05-01 21:21:29,597 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 21:21:29,658 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 21:21:33,980 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 21:21:35,244 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 21:21:36,250 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 21:21:40,427 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 21:21:42,470 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 21:21:44,960 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 21:21:47,483 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 21:21:47,484 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 21:21:52,851 [main] INFO NIBM_SQA_FINAL - TC_005 Start
+2022-05-01 21:21:53,369 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 21:21:54,328 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 21:21:55,421 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 21:21:56,385 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 21:21:57,505 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 21:21:58,017 [main] ERROR NIBM_SQA_FINAL - Errors in Country and Nationality
+2022-05-01 21:21:58,228 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 21:21:58,228 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 21:21:58,478 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 21:21:59,317 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 21:21:59,979 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 21:22:00,809 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 21:22:01,974 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 21:22:02,831 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:22:03,522 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-01 21:22:04,253 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-01 21:22:05,002 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:22:05,808 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-01 21:22:06,487 [main] INFO NIBM_SQA_FINAL - 2024 is selected as passport issurance year
+2022-05-01 21:22:07,749 [main] INFO NIBM_SQA_FINAL - Bank Transfer is selected
+2022-05-01 21:22:08,502 [main] INFO NIBM_SQA_FINAL - Pay later is selected
+2022-05-01 21:22:08,503 [main] ERROR NIBM_SQA_FINAL - Error in pay Stripe method
+2022-05-01 21:22:08,729 [main] INFO NIBM_SQA_FINAL - Pay pal is selected
+2022-05-01 21:24:28,359 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 21:24:28,424 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 21:24:32,876 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 21:24:34,236 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 21:24:35,245 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 21:24:38,068 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 21:24:42,361 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 21:24:43,525 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 21:24:46,120 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 21:24:46,122 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 21:24:52,481 [main] INFO NIBM_SQA_FINAL - TC_005 Start
+2022-05-01 21:24:52,959 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 21:24:54,004 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 21:24:55,309 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 21:24:56,548 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 21:24:57,672 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 21:24:58,188 [main] ERROR NIBM_SQA_FINAL - Errors in Country and Nationality
+2022-05-01 21:24:58,388 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 21:24:58,389 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 21:24:58,614 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 21:24:59,477 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 21:25:00,156 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 21:25:00,995 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 21:25:01,899 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 21:25:02,760 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:25:03,448 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-01 21:25:04,145 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-01 21:25:04,959 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:25:05,760 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-01 21:25:06,468 [main] INFO NIBM_SQA_FINAL - 2024 is selected as passport issurance year
+2022-05-01 21:26:27,806 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 21:26:27,875 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 21:26:32,329 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 21:26:33,789 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 21:26:34,801 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 21:26:37,298 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 21:26:40,309 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 21:26:41,865 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 21:26:44,664 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 21:26:44,666 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 21:26:50,159 [main] INFO NIBM_SQA_FINAL - TC_005 Start
+2022-05-01 21:26:50,800 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 21:26:51,957 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 21:26:53,177 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 21:26:54,355 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 21:26:55,569 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 21:26:56,084 [main] ERROR NIBM_SQA_FINAL - Errors in Country and Nationality
+2022-05-01 21:26:56,271 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 21:26:56,272 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 21:26:56,525 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 21:26:57,384 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 21:26:58,062 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 21:26:58,877 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 21:27:00,012 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 21:27:00,798 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:27:01,483 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-01 21:27:02,222 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-01 21:27:03,009 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:27:03,828 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-01 21:27:04,512 [main] INFO NIBM_SQA_FINAL - 2024 is selected as passport issurance year
+2022-05-01 21:30:13,070 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 21:30:13,139 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 21:30:17,380 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 21:30:18,891 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 21:30:19,908 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-01 21:30:22,156 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-01 21:30:25,045 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-01 21:30:26,158 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-01 21:30:28,901 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-01 21:30:28,902 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-01 21:30:33,355 [main] INFO NIBM_SQA_FINAL - TC_005 Start
+2022-05-01 21:30:33,860 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-01 21:30:35,016 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-01 21:30:36,213 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-01 21:30:37,349 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-01 21:30:38,341 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-01 21:30:38,858 [main] ERROR NIBM_SQA_FINAL - Errors in Country and Nationality
+2022-05-01 21:30:39,083 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-01 21:30:39,084 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-01 21:30:39,295 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-01 21:30:40,127 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-01 21:30:40,787 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-01 21:30:41,622 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-01 21:30:42,681 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-01 21:30:43,518 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:30:44,201 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-01 21:30:44,884 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-01 21:30:45,700 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-01 21:30:46,512 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-01 21:30:47,197 [main] INFO NIBM_SQA_FINAL - 2024 is selected as passport issurance year
+2022-05-01 21:30:48,480 [main] INFO NIBM_SQA_FINAL - Bank Transfer is selected
+2022-05-01 21:30:49,279 [main] INFO NIBM_SQA_FINAL - Pay later is selected
+2022-05-01 21:30:49,280 [main] ERROR NIBM_SQA_FINAL - Error in pay Stripe method
+2022-05-01 21:30:49,489 [main] INFO NIBM_SQA_FINAL - Pay pal is selected
+2022-05-01 21:50:40,926 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 21:50:44,032 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 21:50:44,034 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 21:51:51,076 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 21:51:53,713 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 21:51:53,716 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 21:52:00,997 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-01 21:52:02,335 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-01 21:52:04,292 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 21:52:04,429 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 21:52:13,328 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 21:52:13,328 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 21:52:14,754 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 21:52:15,353 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 21:52:15,883 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 21:52:15,884 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-01 21:52:19,859 [main] INFO NIBM_SQA_FINAL - Counter is working successfully
+2022-05-01 21:52:19,861 [main] INFO NIBM_SQA_FINAL - TC_002_S5 Passed
+2022-05-01 21:52:20,596 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Economy Class is Selected
+2022-05-01 21:52:21,611 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-01 21:52:21,723 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-01 21:52:24,755 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-01 21:52:24,756 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-01 21:52:32,031 [main] INFO NIBM_SQA_FINAL - TC 003_Loading flights section successful
+2022-05-01 21:52:33,267 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-01 21:52:34,997 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-01 21:52:35,118 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-01 21:52:43,456 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-01 21:52:43,456 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-01 21:52:45,024 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 21:52:45,717 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-01 21:52:46,426 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-01 21:52:46,427 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-01 21:52:47,253 [main] INFO NIBM_SQA_FINAL - Select return date successfully
+2022-05-01 21:52:48,012 [main] INFO NIBM_SQA_FINAL - Unable to select past retrun date
+2022-05-01 21:52:48,610 [main] INFO NIBM_SQA_FINAL - Select Retrn date successfully
+2022-05-01 21:52:48,611 [main] INFO NIBM_SQA_FINAL - TC_003_S5 Passed
+2022-05-01 21:52:52,587 [main] INFO NIBM_SQA_FINAL - TC_003 S6 Passed
+2022-05-01 21:52:53,411 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Economy Class is Selected
+2022-05-01 21:52:53,412 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Select Class Test is passed
+2022-05-01 21:52:53,595 [main] INFO NIBM_SQA_FINAL - TC_003_S8 Passed 
+2022-05-01 21:53:15,957 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-01 21:53:15,970 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-01 21:53:20,361 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-01 21:53:21,707 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-01 21:53:22,716 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-14 09:42:05,751 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-14 09:42:09,019 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-14 09:42:09,023 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-14 09:42:16,304 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-14 09:42:17,473 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-14 09:42:19,754 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-14 09:42:19,880 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-14 09:42:26,685 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-14 09:42:26,685 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-14 09:42:28,530 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-14 09:42:29,495 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-14 09:42:30,387 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-14 09:42:30,388 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-14 09:42:33,979 [main] INFO NIBM_SQA_FINAL - Counter is working successfully
+2022-05-14 09:42:33,980 [main] INFO NIBM_SQA_FINAL - TC_002_S5 Passed
+2022-05-14 09:42:34,499 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Economy Class is Selected
+2022-05-14 09:42:35,509 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-14 09:42:35,588 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-14 09:45:57,115 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-14 10:10:09,771 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-14 10:10:11,621 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-14 10:10:11,626 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-14 10:10:18,727 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-14 10:10:19,789 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-14 10:10:21,176 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-14 10:10:21,240 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-14 10:10:26,334 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-14 10:10:26,334 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-14 10:10:27,521 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-14 10:10:27,814 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-14 10:10:28,096 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-14 10:10:28,096 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-14 10:10:31,236 [main] INFO NIBM_SQA_FINAL - Counter is working successfully
+2022-05-14 10:10:31,236 [main] INFO NIBM_SQA_FINAL - TC_002_S5 Passed
+2022-05-14 10:10:31,489 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Economy Class is Selected
+2022-05-14 10:10:32,501 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-14 10:10:32,590 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-14 10:10:34,146 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-14 10:10:34,147 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-14 10:10:41,222 [main] INFO NIBM_SQA_FINAL - TC 003_Loading flights section successful
+2022-05-14 10:10:42,294 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-14 10:10:43,633 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-14 10:10:43,687 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-14 10:10:48,768 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-14 10:10:48,769 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-14 10:10:49,964 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-14 10:10:50,242 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-14 10:10:50,529 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-14 10:10:50,529 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-14 10:10:50,873 [main] INFO NIBM_SQA_FINAL - Select return date successfully
+2022-05-14 10:10:51,180 [main] INFO NIBM_SQA_FINAL - Unable to select past retrun date
+2022-05-14 10:10:51,482 [main] INFO NIBM_SQA_FINAL - Select Retrn date successfully
+2022-05-14 10:10:51,482 [main] INFO NIBM_SQA_FINAL - TC_003_S5 Passed
+2022-05-14 10:10:54,547 [main] INFO NIBM_SQA_FINAL - TC_003 S6 Passed
+2022-05-14 10:10:54,767 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Economy Class is Selected
+2022-05-14 10:10:54,768 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Select Class Test is passed
+2022-05-14 10:10:54,828 [main] INFO NIBM_SQA_FINAL - TC_003_S8 Passed 
+2022-05-14 10:11:01,724 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-14 10:11:01,734 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-14 10:11:05,881 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-14 10:11:07,048 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-14 10:11:08,058 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-14 10:11:09,730 [main] INFO NIBM_SQA_FINAL - Selected India Go
+2022-05-14 10:11:11,006 [main] INFO NIBM_SQA_FINAL - Select Air India
+2022-05-14 10:11:11,298 [main] INFO NIBM_SQA_FINAL - Selcted Spice Jet
+2022-05-14 10:11:12,995 [main] INFO NIBM_SQA_FINAL - Selected Sri Lankan
+2022-05-14 10:11:12,995 [main] INFO NIBM_SQA_FINAL - TC_004_S3 Passed Search Complete By Airlines
+2022-05-14 10:11:17,249 [main] INFO NIBM_SQA_FINAL - TC_005 Start
+2022-05-14 10:11:17,496 [main] INFO NIBM_SQA_FINAL - First Name Entered
+2022-05-14 10:11:18,242 [main] INFO NIBM_SQA_FINAL - Last Name Entered
+2022-05-14 10:11:19,033 [main] INFO NIBM_SQA_FINAL - Email is entered
+2022-05-14 10:11:19,790 [main] INFO NIBM_SQA_FINAL - Phone is entered
+2022-05-14 10:11:20,515 [main] INFO NIBM_SQA_FINAL - Adress is entered
+2022-05-14 10:11:21,017 [main] ERROR NIBM_SQA_FINAL - Errors in Country and Nationality
+2022-05-14 10:11:21,070 [main] INFO NIBM_SQA_FINAL - MR is selected
+2022-05-14 10:11:21,070 [main] ERROR NIBM_SQA_FINAL - Errors in Fname and Lname
+2022-05-14 10:11:21,174 [main] INFO NIBM_SQA_FINAL - Albania is selected
+2022-05-14 10:11:21,781 [main] INFO NIBM_SQA_FINAL - 03 March
+2022-05-14 10:11:22,323 [main] INFO NIBM_SQA_FINAL - 01 is selected
+2022-05-14 10:11:22,931 [main] INFO NIBM_SQA_FINAL - 1997 is selected
+2022-05-14 10:11:23,627 [main] INFO NIBM_SQA_FINAL - Passport / ID is entered
+2022-05-14 10:11:24,216 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-14 10:11:24,846 [main] INFO NIBM_SQA_FINAL - 01 is selected as passport issurance day
+2022-05-14 10:11:25,492 [main] INFO NIBM_SQA_FINAL - 2020 is selected as passport issurance year
+2022-05-14 10:11:26,080 [main] INFO NIBM_SQA_FINAL - 03 March is selected as passport issurance date
+2022-05-14 10:11:26,707 [main] INFO NIBM_SQA_FINAL - 02 is selected as passport issurance day
+2022-05-14 10:11:27,283 [main] INFO NIBM_SQA_FINAL - 2024 is selected as passport issurance year
+2022-05-15 09:06:21,307 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-15 09:06:23,478 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-15 09:06:23,479 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-15 09:06:30,617 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-15 09:06:31,707 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-15 09:06:33,139 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-15 09:06:33,205 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-15 09:06:39,246 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-15 09:06:39,246 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-15 09:06:40,553 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-15 09:06:40,992 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-15 09:06:41,336 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-15 09:06:41,337 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-15 09:06:44,442 [main] INFO NIBM_SQA_FINAL - Counter is working successfully
+2022-05-15 09:06:44,443 [main] INFO NIBM_SQA_FINAL - TC_002_S5 Passed
+2022-05-15 09:06:44,679 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Economy Class is Selected
+2022-05-15 09:06:45,691 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-15 09:06:45,752 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-15 09:06:47,558 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-15 09:06:47,559 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-15 09:06:54,655 [main] INFO NIBM_SQA_FINAL - TC 003_Loading flights section successful
+2022-05-15 09:06:55,754 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-15 09:06:57,115 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-15 09:06:57,166 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-15 09:07:02,582 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-15 09:07:02,582 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-15 09:07:03,792 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-15 09:07:04,061 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-15 09:07:04,327 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-15 09:07:04,327 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-15 09:07:04,647 [main] INFO NIBM_SQA_FINAL - Select return date successfully
+2022-05-15 09:07:04,938 [main] INFO NIBM_SQA_FINAL - Unable to select past retrun date
+2022-05-15 09:07:05,227 [main] INFO NIBM_SQA_FINAL - Select Retrn date successfully
+2022-05-15 09:07:05,228 [main] INFO NIBM_SQA_FINAL - TC_003_S5 Passed
+2022-05-15 09:07:08,469 [main] INFO NIBM_SQA_FINAL - TC_003 S6 Passed
+2022-05-15 09:07:08,692 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Economy Class is Selected
+2022-05-15 09:07:08,693 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Select Class Test is passed
+2022-05-15 09:07:08,752 [main] INFO NIBM_SQA_FINAL - TC_003_S8 Passed 
+2022-05-15 09:07:16,793 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-15 09:07:16,797 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-15 09:07:20,890 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-15 09:07:21,988 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-15 09:07:23,003 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-26 07:08:02,152 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:08:04,057 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:08:04,059 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-26 07:08:11,162 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-26 07:08:12,221 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-26 07:08:13,752 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-26 07:08:13,816 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-26 07:08:19,249 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-26 07:08:19,250 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-26 07:08:20,860 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:08:21,147 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-26 07:08:21,822 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:08:21,822 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-26 07:08:25,177 [main] INFO NIBM_SQA_FINAL - Counter is working successfully
+2022-05-26 07:08:25,178 [main] INFO NIBM_SQA_FINAL - TC_002_S5 Passed
+2022-05-26 07:08:25,398 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Economy Class is Selected
+2022-05-26 07:08:26,407 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-26 07:08:26,484 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-26 07:08:28,319 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:08:28,320 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-26 07:08:35,402 [main] INFO NIBM_SQA_FINAL - TC 003_Loading flights section successful
+2022-05-26 07:08:36,509 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-26 07:08:38,281 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-26 07:08:38,326 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-26 07:08:43,429 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-26 07:08:43,429 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-26 07:08:44,637 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:08:44,919 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-26 07:08:45,173 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:08:45,173 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-26 07:08:45,494 [main] INFO NIBM_SQA_FINAL - Select return date successfully
+2022-05-26 07:08:45,797 [main] INFO NIBM_SQA_FINAL - Unable to select past retrun date
+2022-05-26 07:08:46,125 [main] INFO NIBM_SQA_FINAL - Select Retrn date successfully
+2022-05-26 07:08:46,126 [main] INFO NIBM_SQA_FINAL - TC_003_S5 Passed
+2022-05-26 07:08:50,075 [main] INFO NIBM_SQA_FINAL - TC_003 S6 Passed
+2022-05-26 07:08:50,291 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Economy Class is Selected
+2022-05-26 07:08:50,291 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Select Class Test is passed
+2022-05-26 07:08:50,341 [main] INFO NIBM_SQA_FINAL - TC_003_S8 Passed 
+2022-05-26 07:09:02,314 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-26 07:09:02,317 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-26 07:09:06,436 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-26 07:09:07,526 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-26 07:09:08,542 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-26 07:13:09,145 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:13:11,708 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:13:11,712 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-26 07:13:18,793 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-26 07:13:19,882 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-26 07:13:21,264 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-26 07:13:21,322 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-26 07:13:26,299 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-26 07:13:26,300 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-26 07:13:27,500 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:13:27,775 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-26 07:13:28,075 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:13:28,075 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-26 07:13:31,138 [main] INFO NIBM_SQA_FINAL - Counter is working successfully
+2022-05-26 07:13:31,138 [main] INFO NIBM_SQA_FINAL - TC_002_S5 Passed
+2022-05-26 07:13:31,381 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Economy Class is Selected
+2022-05-26 07:13:32,397 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-26 07:13:32,455 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-26 07:13:34,286 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:13:34,287 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-26 07:13:41,364 [main] INFO NIBM_SQA_FINAL - TC 003_Loading flights section successful
+2022-05-26 07:13:42,450 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-26 07:13:43,803 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-26 07:13:43,850 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-26 07:13:48,927 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-26 07:13:48,927 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-26 07:13:50,173 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:13:50,479 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-26 07:13:50,767 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:13:50,767 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-26 07:13:51,143 [main] INFO NIBM_SQA_FINAL - Select return date successfully
+2022-05-26 07:13:51,477 [main] INFO NIBM_SQA_FINAL - Unable to select past retrun date
+2022-05-26 07:13:51,767 [main] INFO NIBM_SQA_FINAL - Select Retrn date successfully
+2022-05-26 07:13:51,767 [main] INFO NIBM_SQA_FINAL - TC_003_S5 Passed
+2022-05-26 07:13:55,127 [main] INFO NIBM_SQA_FINAL - TC_003 S6 Passed
+2022-05-26 07:13:55,318 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Economy Class is Selected
+2022-05-26 07:13:55,318 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Select Class Test is passed
+2022-05-26 07:13:55,366 [main] INFO NIBM_SQA_FINAL - TC_003_S8 Passed 
+2022-05-26 07:14:05,230 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-26 07:14:05,233 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-26 07:14:09,539 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-26 07:14:10,636 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-26 07:14:11,642 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-26 07:23:31,738 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:23:34,137 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:23:34,139 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-26 07:23:41,268 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-26 07:23:42,322 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-26 07:23:43,827 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-26 07:23:43,894 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-26 07:23:49,035 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-26 07:23:49,036 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-26 07:23:50,588 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:23:51,184 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-26 07:23:51,542 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:23:51,542 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-26 07:23:55,063 [main] INFO NIBM_SQA_FINAL - Counter is working successfully
+2022-05-26 07:23:55,064 [main] INFO NIBM_SQA_FINAL - TC_002_S5 Passed
+2022-05-26 07:23:55,268 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Economy Class is Selected
+2022-05-26 07:23:56,282 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-26 07:23:56,356 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-26 07:23:58,036 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:23:58,038 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-26 07:24:05,115 [main] INFO NIBM_SQA_FINAL - TC 003_Loading flights section successful
+2022-05-26 07:24:06,227 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-26 07:24:07,583 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-26 07:24:07,634 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-26 07:24:13,048 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-26 07:24:13,048 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-26 07:24:14,254 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:24:14,557 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-26 07:24:14,885 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:24:14,885 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-26 07:24:15,420 [main] INFO NIBM_SQA_FINAL - Select return date successfully
+2022-05-26 07:24:15,774 [main] INFO NIBM_SQA_FINAL - Unable to select past retrun date
+2022-05-26 07:24:16,172 [main] INFO NIBM_SQA_FINAL - Select Retrn date successfully
+2022-05-26 07:24:16,173 [main] INFO NIBM_SQA_FINAL - TC_003_S5 Passed
+2022-05-26 07:24:20,020 [main] INFO NIBM_SQA_FINAL - TC_003 S6 Passed
+2022-05-26 07:24:20,224 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Economy Class is Selected
+2022-05-26 07:24:20,224 [main] INFO NIBM_SQA_FINAL - TC_002 S7 Select Class Test is passed
+2022-05-26 07:24:20,276 [main] INFO NIBM_SQA_FINAL - TC_003_S8 Passed 
+2022-05-26 07:24:29,447 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-26 07:24:29,504 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-26 07:24:33,674 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-26 07:24:34,809 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-26 07:24:35,819 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
+2022-05-26 07:36:24,878 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:36:26,590 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:36:26,591 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-26 07:36:34,822 [main] INFO NIBM_SQA_FINAL - TC 002_Loading flights section successful
+2022-05-26 07:36:35,949 [main] INFO NIBM_SQA_FINAL - TC_002 S1 Select One Way trip
+2022-05-26 07:36:37,686 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-26 07:36:37,757 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-26 07:36:44,450 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-26 07:36:44,452 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-26 07:36:45,831 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:36:46,231 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-26 07:36:46,572 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:36:46,572 [main] INFO NIBM_SQA_FINAL - TC_002_S4 Passed
+2022-05-26 07:36:53,716 [main] INFO NIBM_SQA_FINAL - Counter is working successfully
+2022-05-26 07:36:53,717 [main] INFO NIBM_SQA_FINAL - TC_002_S5 Passed
+2022-05-26 07:36:55,162 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Economy Class is Selected
+2022-05-26 07:36:56,173 [main] INFO NIBM_SQA_FINAL - TC_002 S6 Passed
+2022-05-26 07:36:56,232 [main] INFO NIBM_SQA_FINAL - TC_002_S7 Passed 
+2022-05-26 07:36:58,112 [main] INFO NIBM_SQA_FINAL - URL is Opened
+2022-05-26 07:36:58,113 [main] INFO NIBM_SQA_FINAL - TC 001_ Main Page Loads Successfully
+2022-05-26 07:37:05,199 [main] INFO NIBM_SQA_FINAL - TC 003_Loading flights section successful
+2022-05-26 07:37:06,346 [main] INFO NIBM_SQA_FINAL - TC_003_S1 Select Round Way trip
+2022-05-26 07:37:07,727 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for departure
+2022-05-26 07:37:07,781 [main] INFO NIBM_SQA_FINAL - TC_002_S2 Departure Selected Successfully 
+2022-05-26 07:37:16,711 [main] INFO NIBM_SQA_FINAL - Loads the suggestions for destinatoin
+2022-05-26 07:37:16,713 [main] INFO NIBM_SQA_FINAL - TC_002_S3 Destination selected successfully
+2022-05-26 07:37:17,919 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:37:18,288 [main] INFO NIBM_SQA_FINAL - Unable to select past date
+2022-05-26 07:37:18,575 [main] INFO NIBM_SQA_FINAL - Select Departure date successfully
+2022-05-26 07:37:18,575 [main] INFO NIBM_SQA_FINAL - TC_003_S4 Passed
+2022-05-26 07:37:18,932 [main] INFO NIBM_SQA_FINAL - Select return date successfully
+2022-05-26 07:37:19,315 [main] INFO NIBM_SQA_FINAL - Unable to select past retrun date
+2022-05-26 07:37:19,638 [main] INFO NIBM_SQA_FINAL - Select Retrn date successfully
+2022-05-26 07:37:19,638 [main] INFO NIBM_SQA_FINAL - TC_003_S5 Passed
+2022-05-26 07:37:44,235 [main] INFO NIBM_SQA_FINAL - TC_004_ Started -URL is Opened
+2022-05-26 07:37:44,403 [main] INFO NIBM_SQA_FINAL - Flight Page is loaded
+2022-05-26 07:37:48,502 [main] INFO NIBM_SQA_FINAL - All flight option is working
+2022-05-26 07:37:49,601 [main] INFO NIBM_SQA_FINAL - Direct Fligh option is working
+2022-05-26 07:37:50,614 [main] INFO NIBM_SQA_FINAL - TC_004_S1 Passed Modify Flight by Flight stop
