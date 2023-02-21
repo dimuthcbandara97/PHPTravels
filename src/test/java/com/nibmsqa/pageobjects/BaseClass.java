@@ -57,8 +57,14 @@ public class BaseClass {
 	
 	@AfterTest
 	public void tearDown() throws InterruptedException {
-		Thread.sleep(5000);
-		driver.quit();
+		//Thread.sleep(5000);
+		//driver.quit();
+		await().atMost(2, Duration.SECONDS).until(driverquitmethod());
+		driverquitmethod()
+	}
+
+	public void driverquitmethod(){
+		driver.quit()
 	}
 	
 	public void captureScreen(WebDriver driver, String tname) throws IOException {
